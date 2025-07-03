@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: assets/CV_Basakha_Yasaman.pdf
 
-url: https://YBasakha.github.io
+url: https://ybasakha.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
